@@ -1,8 +1,7 @@
 import './App.css';
-import Index from './router/index';
+import Router from './Router';
 
 function App() {
-  return <Index />
+  return <Router />
 }
-
 export default App;
