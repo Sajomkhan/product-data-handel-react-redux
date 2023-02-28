@@ -1,4 +1,4 @@
-# Todo App with React-Bootstrap
+# Products List App with React-Redux & Redux-Toolkit
 <!-- ### It's a Full Mobile Responsive App -->
 
 <!-- ### Go to Live Project: https://food-shop-app-react-tailwined.netlify.app/ -->
