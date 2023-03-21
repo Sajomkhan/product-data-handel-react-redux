@@ -23,5 +23,5 @@
     yarn add @reduxjs/toolkit
     
 #### React-Redux package:
-    yarn add @reduxjs/toolkit
+    npm install react-redux
     yarn add react-redux
